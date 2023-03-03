@@ -1,0 +1,4 @@
+FLASK_APP='server.py'
+FLASK_DEBUG=
+FLASK_RUN_PORT=8001
+FLASK_RUN_HOST='localhost'
